@@ -467,7 +467,7 @@ h3 {
   box-shadow: 5px 5px 10px 5px #ccc;
   border-radius: 12px;
   /* margin-bottom: 40px; */
-  margin: 0 auto 40px;
+  margin: 0 auto;
   background-image: url(./../image/calc-pic.jpg);
   background-repeat: no-repeat;
   background-size: cover;
